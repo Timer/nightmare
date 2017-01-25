@@ -30,9 +30,6 @@
     "sliced": "1.0.1",
     "split2": "^2.0.1"
   },
-  "peerDependencies": {
-    "electron": "^1.4.4"
-  },
   "devDependencies": {
     "basic-auth": "^1.0.3",
     "basic-auth-connect": "^1.0.0",
