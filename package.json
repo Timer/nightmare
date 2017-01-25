@@ -1,6 +1,6 @@
 {
   "name": "eramthgin",
-  "version": "2.9.1",
+  "version": "2.9.2",
   "license": "MIT",
   "main": "lib/nightmare.js",
   "scripts": {
@@ -44,6 +44,6 @@
     "split": "^1.0.0"
   },
   "engines": {
-    "node":">=4.0.0"
+    "node": ">=4.0.0"
   }
 }
